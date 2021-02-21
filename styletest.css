@@ -1,0 +1,100 @@
+.background 
+{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+.tuade
+{
+    position: absolute;
+    left: 200px;
+    font-size: 120px;
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+}
+.buttonmember
+{
+    position: absolute;
+    left: 700px;
+    font-size: 50px;
+    color: black;
+    background-color: rgb(131, 129, 121);
+}
+.buttonmember:hover
+{
+    background-color: rgb(28, 189, 230);
+}
+.lienket a
+{
+    text-decoration: none;
+}
+.imgset
+{
+    position: relative;
+    width: 500px;
+    top: 300px;
+    left: 100px;
+}
+.chudanhsach
+{
+    position: absolute;
+    left: 700px;
+    font-size: 40px;
+    color: black;
+}
+.chuthich
+{
+    position: absolute;
+    font-family:'Courier New', Courier, monospace;
+    font: 20px ;
+    left: 650px;
+    bottom: 50px;
+    color: red;
+}
+.avatar
+{
+    position: relative;
+    width: 300px;
+    top: 100px;
+    left: 600px;
+}
+.nuthome
+{
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 20px;
+    color: black;
+    background-color: rgb(131, 129, 121);
+}
+.nuthome:hover
+{
+    background-color: rgb(28, 189, 230);
+}
+.khungthongtin
+{
+    position: relative;
+    width: 1250px;
+    height: 250px;
+    top: 150px;
+    left: 140px;
+    opacity: 0.5;
+}
+.thongtin_1
+{
+    position: absolute;
+    font-size: 30px;
+    top: 440px;
+    left: 190px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+.thongtin_2
+{
+    position: absolute;
+    font-size: 30px;
+    top: 440px;
+    left: 950px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
